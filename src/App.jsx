@@ -11,7 +11,6 @@ function App() {
   const handleOperator = value => {
     if(!isNaN(parseInt(input[input.length - 1])) || typeof(input) == 'number' || input[input.length - 1] == ')'){
       setInput(input + value);
-      console.log('hola');
     }
   }
   const handleClear = () => setInput('');
