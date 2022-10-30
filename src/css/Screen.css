@@ -1,0 +1,14 @@
+.screen-container{
+    padding: 20px;
+}
+
+.screen{
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: lighter;
+    font-size: 50px;
+    color: #fff;
+    overflow: hidden; 
+}

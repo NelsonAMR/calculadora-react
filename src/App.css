@@ -1,0 +1,23 @@
+.App{
+    font-family: Lato, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.calculator-container{
+    width: 400px;
+    min-height: 500px;
+    padding: 14px 10px;
+    background-color: #010101;
+    border: 1px solid #222222
+}
+
+.row{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

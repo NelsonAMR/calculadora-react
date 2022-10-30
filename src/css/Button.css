@@ -1,0 +1,39 @@
+.button{
+    height: 75px;
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: lighter;
+    font-size: 40px;
+    background-color: rgb(255, 255, 255, 0.1);
+    color: #fff;
+    border-radius: 50%;
+    /* border: 2px solid #101010; */
+    margin: 4px 12px;
+    cursor: pointer;
+    user-select: none;
+    transition: 150ms;
+}
+
+.button:hover{
+    background-color: rgb(255, 255, 255, 0.2);
+    font-size: 30px;
+
+}
+
+.operator{
+    color: #28ff39;
+}
+
+.erase{
+    color: #ff3535;
+}
+
+.result{
+    background-color: #00960c;
+}
+
+.result:hover{
+    background-color: #00da12;
+}
