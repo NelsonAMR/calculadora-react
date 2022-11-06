@@ -1,5 +1,5 @@
 .button{
-    height: 75px;
+    height: 55px;
     display: flex;
     flex: 1 1;
     align-items: center;
@@ -10,7 +10,7 @@
     color: #fff;
     border-radius: 50%;
     /* border: 2px solid #101010; */
-    margin: 4px 12px;
+    margin: 4px 9px;
     cursor: pointer;
     user-select: none;
     transition: 150ms;

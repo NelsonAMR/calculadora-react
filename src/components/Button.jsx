@@ -2,7 +2,7 @@ import '../css/Button.css'
 
 function Button(props) {
   const operator = ['/', '%', '*', '-', '+', '( )'];
-  const erase = ['D', 'AC'];
+  const erase = ['D', 'C'];
   const result = '=';
     // const isOperator = value => isNaN(value) && (value != '.') && (value != '=');
 

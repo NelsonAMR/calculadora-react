@@ -41,7 +41,7 @@ function App() {
         <Screen input={input}/>
 
         <div className='row'>
-          <Button handleClick={handleClear}>AC</Button>
+          <Button handleClick={handleClear}>C</Button>
           <Button handleClick={handleErase}>D</Button>
           <Button handleClick={handleOperator}>%</Button>
           <Button handleClick={handleOperator}>/</Button>

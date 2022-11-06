@@ -8,8 +8,8 @@
 }
 
 .calculator-container{
-    width: 400px;
-    min-height: 500px;
+    width: 300px;
+    min-height: 375px;
     padding: 14px 10px;
     background-color: #010101;
     border: 1px solid #222222
